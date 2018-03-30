@@ -1,0 +1,24 @@
+{
+  "name": "fx",
+  "version": "1.0.0",
+  "description": "fx",
+  "main": "server.js",
+  "scripts": {
+    "start":"node server.js",
+    "server":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clickingmouse/FX.git"
+  },
+  "author": "Kevin Ko.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clickingmouse/FX/issues"
+  },
+  "homepage": "https://github.com/clickingmouse/FX#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  }
+
+}
